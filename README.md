@@ -1,5 +1,5 @@
 # 💫 Hii! I'm Hamza Ilyas:
-🔭 I’m currently working on authentication-system<br>🌱 I’m currently learning Next js, Angular, Laravel, Codeignitor<br>👯 I’m looking to collaborate on car-dealer-app-nextjs<br>🤝 I’m looking for help with whatsapp<br>👨‍💻 All of my projects are available at https://github.com/Hamza-fullstackdev<br>💬 Ask me about Next js, React Js, Node Js<br>📫 How to reach me hamzafullstackdev1@gmail.com<br>⚡ Fun fact I Think Im Funny At Creating New Bugs 😂
+🔭 I’m currently working on authentication-system<br>🌱 I’m currently learning Next js, Angular, Laravel, Codeignitor<br>👯 I’m looking to collaborate on car-dealer-app-nextjs<br>🤝 I’m looking for help with whatsapp<br>👨‍💻 All of my projects are available at https://github.com/Hamza-fullstackdev<br>💬 Ask me about Next js, React Js, Node Js<br>📫 How to reach me hamzafullstackdev1@gmail.com
 
 
 ## 🌐 Socials:
